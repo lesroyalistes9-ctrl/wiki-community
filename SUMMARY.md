@@ -17,6 +17,7 @@
 * [Projects](ecosystem/projects/README.md)
   * [Tools](ecosystem/projects/tools.md)
   * [HyperEVM](ecosystem/projects/hyperevm/README.md)
+    * [HypurrFi](ecosystem/projects/hyperevm/hypurrfi.md)
     * [Felix](ecosystem/projects/hyperevm/felix.md)
     * [Harmonix](ecosystem/projects/hyperevm/harmonix.md)
     * [Kinetiq](ecosystem/projects/hyperevm/kinetiq.md)
